@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Inter:wght@100..900&display=swap');
+
 /*!
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
@@ -8321,10 +8323,12 @@ h1, h2, h3, h4, h5,
 
   .price-sign{
     margin-top: 10px;
+    
   }
 
   .price-number{
     font-size: xx-large;
+    
   }
 
   .price-container{
@@ -8332,3 +8336,13 @@ h1, h2, h3, h4, h5,
     gap: 2px;
     /* border: solid #040505 2px; */
   }
+
+  .title{
+    font-family: caveat;
+    font-size: 50px;
+    font-weight: bolder;
+    color: #9b111e;
+  }
+
+
+
